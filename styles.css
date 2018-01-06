@@ -1,0 +1,65 @@
+.Titulo {
+   font-family: Verdana;
+   font-weight: bold;
+   font-size: 4vh;
+}
+
+.links {
+	font-family: Courier;
+	font-size: 2vh;
+}
+
+.icon {
+	width: 2vw;
+	height: 2vw;
+}
+
+.subtitulo {
+	font-family: Verdana;
+	font-size: 4vh;
+}
+
+.contenido{
+	font-family: Verdana;
+	font-size: 1vw;
+}
+
+.proyecto{
+	font-family: Verdana;
+	font-size: 1vw;
+	font-weight: bold;
+	text-align: center;
+}
+
+.tabs .indicator{
+    background-color: #4a148c !important;
+    width: 11vw;
+}
+
+.tabs .tab {
+	width: 11vw;
+	font-size: 1vw;
+}
+
+.tabs .tab a:hover{
+	background-color: #aa00ff !important;
+}
+
+.dodeca {
+	width:128px;
+	height:128px;
+}
+
+.top {
+	text-align: right;
+}
+
+.my-foot{
+	max-height: 20vh;
+}
+
+.my_pic1{
+	height: 45vh;
+	width: 30vw;
+}
+
